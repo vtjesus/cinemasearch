@@ -1,0 +1,9 @@
+main::-webkit-scrollbar {
+    width: 10px;
+}
+
+main::-webkit-scrollbar-thumb {
+    background-color: gold; /* Цвет полосы прокрутки */
+    border-radius: 4px; /* Закругление углов полосы прокрутки */
+    cursor: pointer;
+}
